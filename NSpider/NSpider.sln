@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSpider", "NSpider\NSpider.csproj", "{17B2728D-E700-4546-B35B-E73088A281F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSpider.GUI", "NSpider.GUI\NSpider.GUI.csproj", "{17B2728D-E700-4546-B35B-E73088A281F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
